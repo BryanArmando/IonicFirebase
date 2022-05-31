@@ -1,0 +1,7 @@
+{
+  "name": "fire2022A",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
